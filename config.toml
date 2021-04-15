@@ -1,0 +1,28 @@
+baseURL = "https://tusvml.github.io/blog/"
+canonifyURLs = true
+defaultContentLanguage = "ja"
+paginate = 10
+theme = "hello-friend"
+
+[params]
+showReadingTime = false
+toc = false
+
+[languages]
+[languages.ja]
+title = "谷口研究室"
+
+[languages.ja.params.logo]
+logoHomeLink = "/"
+logoText = "谷口研究室"
+
+[languages.ja.menu]
+[[languages.ja.menu.main]]
+identifier = "archive"
+name = "Archive"
+url = "/archive"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+hardWraps = true
