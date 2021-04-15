@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 谷口研究室</title><link>https://tusvml.github.io/blog/posts/</link><description>Recent content in Posts on 谷口研究室</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tusvml.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>画像電子学会 第295回研究会で発表しました</title><link>https://tusvml.github.io/blog/posts/20210414-01/</link><pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20210414-01/</guid><description>
+2021/23-24に「画像電子学会　第295回研究会」で発表しました．
+今年はOnLineの開催でした．
+本研究室からは以下の発表をおこないました．
+伊井 理紗子(東京理科大学)，古田 諒佑(東京大学)，谷口 行信(東京理科大学)，&amp;ldquo;重複領域を持つ複数カメラ画像の歪み補正とパノラマ合成&amp;rdquo;，画像電子学会 第295回研究会，2020． 脇田 和希(東京理科大学)，古田 諒佑(東京大学)，谷口 行信(東京理科大学)，&amp;ldquo;乳牛個体識別のためのRGB-Dデータのシームレスな合成&amp;rdquo;，画像電子学会 第295回研究会，2020． 伊倉 遼(東京理科大学)，古田 諒佑(東京大学)，入江 豪(NTTコミュニケーション科学基礎研究所)，谷口 行信(東京理科大学)，&amp;ldquo;床画像と屋内構造地図を用いた位置推定技術の研究&amp;rdquo;，画像電子学会 第295回研究会，2020． 李 欣耘(東京理科大学)，古田 諒佑(東京大学)，入江 豪(NTTコミュニケーション科学基礎研究所)，谷口 行信(東京理科大学)，&amp;ldquo;多視点画像及びGeM Poolingを用いた屋内位置推定の高精度化&amp;rdquo;，画像電子学会 第295回研究会，2020．</description></item><item><title>2021年電子情報通信学会 総合大会で発表しました</title><link>https://tusvml.github.io/blog/posts/20210316-01/</link><pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20210316-01/</guid><description>
+2021/03/09 に「2021年電子情報通信学会 総合大会 ISS特別企画「ジュニア＆学生ポスターセッション」」で発表をしました。
+今年はオンラインでの開催でした。
+「深層学習に基づく漫画の半自動彩色へ向けた検討」
+欧陽徳龍（東京理科大），古田諒佑（東大），谷口行信（東京理科大），日並遼太，石渡祥之佑（Mantra）
+「漫画における自動話者推定」
+山口理哉（東京理科大），古田諒佑（東大），谷口行信（東京理科大），日並遼太，石渡祥之佑（Mantra）
+「強化学習による動画内類似画像の高速検索」
+小林弘人（東京理科大），入江　豪（NTT），古田諒佑（東大），谷口行信（東京理科大）
+「多視点画像と CNN を用いたバーチャルスクリーニング」
+釘本晃佑（東京理科大），古田諒佑（東大），入江　豪（NTT），谷口行信，青木　伸（東京理科大）
+「3 次元点群を用いたタンパク質阻害剤の高速探索」
+苅谷　健，谷口行信（東京理科大），入江　豪（NTT），古田諒佑（東大），青木　伸（東京理科大）
+「乳牛追跡の精度向上に向けた状態空間モデルの検討」
+穐澤和宏，谷口行信（東京理科大）
+「Triplet のマイニング方法による乳牛の個体識別精度の比較」
+松永　葵（東京理科大），古田諒佑（東大），谷口行信（東京理科大）
+「GAN を用いた漫画の画像補完」
+横田広之（東京理科大），古田諒佑（東大），谷口行信（東京理科大），日並遼太，石渡祥之佑（Mantra）
+「漫画画像理解のためのキャラクター顔分類」
+小松俊太（東京理科大），古田諒佑（東大），谷口行信（東京理科大），日並遼太，石渡祥之佑（Mantra）
+「作業工程の言語情報を利用した作業映像のシーン分割」
+林　純平（東京理科大），古田諒佑（東大），谷口行信（東京理科大）
+「データベース分割に基づく乳牛個体識別システムの高速化」
+張　非凡（東京理科大），古田諒佑（東大），谷口行信（東京理科大）</description></item><item><title>映像情報メディア学会 創立70周年 記念大会で発表しました</title><link>https://tusvml.github.io/blog/posts/20201224-01/</link><pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20201224-01/</guid><description>
+映像情報メディア学会 創立70周年 記念大会は12月22日(火)から12月24日(木)にかけてオンライン開催されました．
+本研究室からは以下の発表をおこないました．
+杉本将来(東京理科大学)，古田諒佑(東京大学)，谷口行信(東京理科大学)，”弱教師付き Human-Object Interaction 検出”，映像情報メディア学会 創立70周年 記念大会，12A-1，2020.</description></item><item><title>2020年度 第48回 画像電子学会年次大会で発表しました</title><link>https://tusvml.github.io/blog/posts/20201204-01/</link><pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20201204-01/</guid><description>
+本年度の画像電子学会，VCシンポジウムは12月2日(水)から12月4日(金)にかけてオンライン開催されました．
+本研究室からは以下の発表をおこないました．
+石渡翔太郎(東京理科大学)，古田諒佑(東京大学)，谷口行信(東京理科大学)，”Attention機構を導入した乳牛同定と実利用を想定した精度評価”，第48回 画像電子学会年次大会，S3-2，2020.</description></item><item><title>画像の認識・理解シンポジウム (MIRU2020) で発表をしました</title><link>https://tusvml.github.io/blog/posts/20200917-01/</link><pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20200917-01/</guid><description>
+本年度の画像電子学会 第294回研究会は，9月17日にオンライン開催されました．
+本研究室では以下の発表をおこないました．
+脇田和希，古田諒佑，谷口行信，”乳牛個体識別のためのRGB-Dデータを用いた多視点画像生成”，画像電子学会 第294回研究会(IIEEJ-AIT)，映情学技報, vol. 44, no. 22, AIT2020-168, pp. 23-26, 2020年9月．</description></item><item><title>電子情報通信学会 総合大会2020に投稿しました</title><link>https://tusvml.github.io/blog/posts/20200325-01/</link><pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20200325-01/</guid><description>
+本年度の電子情報通信学会 総合大会は，3月17日(火)から20日(金)にかけて広島大学東広島キャンパスにて開催予定でした．
+本研究室では一般セッションにて，
+小林弘人，古田諒佑，谷口行信（東京理科大），塚谷俊介，村崎和彦，安藤慎吾，島村潤（NTT)，”ハイパースペクトル画像を用いた錆状態のモデル化と推定”，電子情報通信学会 総合大会，D-11-27, 2020. 横田広之，古田諒佑，谷口行信（東京理科大），塚谷俊介，村崎和彦，安藤慎吾，島村潤（NTT)，”ハイパースペクトル画像を用いた錆領域セグメンテーションの学習”，電子情報通信学会 総合大会，D-11-31, 2020. 山口理哉，古田諒佑，谷口行信（東京理科大），”画像変換によるドメイン適応を用いた乳牛の個体識別”，電子情報通信学会 総合大会，D-12-32, 2020. 松永葵，古田諒佑，谷口行信（東京理科大），”俯瞰画像における乳牛の姿勢推定と個体識別への応用”，電子情報通信学会 総合大会，D-12-33, 2020. 小松俊太，古田諒佑，谷口行信（東京理科大），”バス車載カメラにおける２部グラフマッチングによる人流推定”，電子情報通信学会 総合大会，D-12-34, 2020. を投稿し，学生ポスターセッションにて，
+脇田和希，古田諒佑，谷口行信（東京理科大），”RGB-D データ合成による乳牛個体識別のための多視点画像生成”，電子情報通信学会 総合大会，学生ポスターセッション，ISS-P-020, 2020. 穐澤和宏，古田諒佑，谷口行信（東京理科大），”背景画像による乳牛のインスタンスセグメンテーションの高精度化”，電子情報通信学会 総合大会，学生ポスターセッション，ISS-P-022, 2020. 石渡翔太郎，古田諒佑，谷口行信（東京理科大），”斑紋特徴を用いた乳牛のRe-identification”，電子情報通信学会 総合大会，学生ポスターセッション，ISS-P-024, 2020. 安黒翔，加納徹，古田諒佑，谷口行信（東京理科大），”装着位置の調整と瞳孔間距離のパラメータ設定による HoloLens のキャリブレーション”，電子情報通信学会 総合大会，学生ポスターセッション，ISS-P-060, 2020. を投稿しました．</description></item><item><title>映像情報メディア学会冬季大会 2019で発表をしました</title><link>https://tusvml.github.io/blog/posts/20191216-01/</link><pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20191216-01/</guid><description>
+本年度の映像情報メディア学会 冬季大会は，12月12日(木)から13日(金)にかけて，電気通信大学にて開催されました．
+本研究室からは以下の発表を行いました．
+杉本将来，古田諒佑，谷口行信(東京理科大)，&amp;ldquo;弱教師ありHuman Object Interaction検出のための基礎検討,&amp;rdquo; 映像情報メディア学会冬季大会, 14B-1, 2019.</description></item><item><title>画像符号化シンポジウム・映像メディア処理シンポジウムで発表しました</title><link>https://tusvml.github.io/blog/posts/20191122-01/</link><pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20191122-01/</guid><description>
+本年度の画像符号化シンポジウム/映像メディア処理シンポジウムは，11月18日(月)から20日(水)にかけて開催されました．
+本研究室からは以下の発表を行いました．
+佐藤寛，古田諒佑(東京理科大学)，島田裕(埼玉大学)，谷口行信(東京理科大)，“作業の順序一貫性を考慮した作業映像の時間的アライメント”， 画像符号化シンポジウム/映像メディア処理シンポジウム，P-2-20，2019．</description></item><item><title>夏合宿に行ってきました！＠つくば</title><link>https://tusvml.github.io/blog/posts/20190904-01/</link><pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20190904-01/</guid><description>
+9月2日(月)から一泊で茨城県のつくば市にゼミ合宿に行ってきました．
+合宿先では、学部4年生がポスター形式で研究発表を行い、様々な意見が飛び交いました．また、花火等のレクリエーションを行い、メンバーの親睦があらためて深まり、後期に向けて研究の進捗に期待できそうです！</description></item><item><title>映像情報メディア学会年次大会 2019で発表をしました</title><link>https://tusvml.github.io/blog/posts/20190830-01/</link><pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20190830-01/</guid><description>
+本年度の映像情報メディア学会 年次大会は，8月28日(水)から30日(金)にかけて，東京工業大学大岡山キャンパスにて開催されました．
+本研究室からは以下の発表を行いました．
+伊倉遼， 古田諒佑， 谷口行信(東京理科大)，“床画像を用いた現在地推定のための特徴量の検討”， 映像情報メディア学会 年次大会，14B-2，2019．</description></item><item><title>IEVC 2019で発表しました</title><link>https://tusvml.github.io/blog/posts/20190826-01/</link><pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20190826-01/</guid><description>
+修士2年の学生が発表を行いました．
+本年度の International Conference on Image Electronics and Visual Computing (IEVC2019) は8月22日(木)から8月24日(土)にかけて，インドネシア・バリ島にて開催されました．
+本研究室からは，オーラルセッションで以下の発表を行いました．
+Tomohiro Suzuki, Yutaka Shimada, Yukinobu Taniguchi, &amp;ldquo;Human Pose Estimation and Motion Analysis for Estimating Bus Passenger Flows,&amp;rdquo; International Conference on Image Electronics and Visual Computing (IEVC2019), 4B-3, 2019.</description></item><item><title>2019年度オープンキャンパス</title><link>https://tusvml.github.io/blog/posts/20190806-01/</link><pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20190806-01/</guid><description>
+8月4日に東京理科大学葛飾キャンパスでオープンキャンパスが開催されました．
+谷口研究室ではオープンラボを行いました．
+人物の姿勢推定，画像認識を用いたホッケーゲームの2つをデモ展示し，来場された方々に体験していただきました．
+今回来場してくださった約800人の方々の大学選びに少しでも参考になれば幸いです．</description></item><item><title>2019年度谷口研究室が発足しました</title><link>https://tusvml.github.io/blog/posts/20190404-01/</link><pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20190404-01/</guid><description>
+新年度となり2019年度の谷口研究室では，第5期生となる学部生9名を新たに迎えました．
+2016年度から経営工学科は名称変更され，今年の4年生は栄えある情報工学科の1期生になります．
+情報工学科の3年間で培った経験を活かして，谷口研に新しい風を吹かせてくれることを期待しています！</description></item><item><title>情報処理学会第81回全国大会で発表をしました</title><link>https://tusvml.github.io/blog/posts/20190330-01/</link><pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20190330-01/</guid><description>
+学部4年のメンバーのうち4名が発表を行いました．
+伊倉遼君が学生奨励賞を受賞しました．
+本年度の情報処理学会全国大会は，3月14日(木)から16日(土)にかけて福岡大学七隈キャンパスにて開催されました．
+本研究室からは学生セッションにて， 以下の4件の発表を行いました．
+杉本将来(東理大)，谷口行信(東理大)，早瀬和也(NTT)， &amp;ldquo;Faster R-CNN を用いた空撮画像からの車両検出,&amp;rdquo; 情報処理学会第81回全国大会講演論文集, 2V-0, 2019. 伊倉遼(東理大)， 谷口行信(東理大)， &amp;ldquo;床画像を用いた屋内位置推定法の提案，” 情報処理学会第81回全国大会講演論文集, 5R-03, 2019. 石渡翔太郎(東理大)， 谷口行信(東理大)， &amp;ldquo;Structure from Motionとマルチショット画像検索を用いた屋内位置推定,&amp;rdquo; 情報処理学会第81回全国大会講演論文集, 5R-02, 2019. 佐藤寛(東理大)， 谷口行信(東理大)， &amp;ldquo;CNN特徴を用いた作業映像の時間的アライメント,&amp;rdquo; 情報処理学会第81回全国大会講演論文集, 2R-06, 2019.</description></item><item><title>映像情報メディア学会冬季大会 2018で発表をしました</title><link>https://tusvml.github.io/blog/posts/20181123-01/</link><pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20181123-01/</guid><description>
+本年度の映像情報メディア学会冬季大会は12月20日，21日に東京工業大学田町キャンパスキャンパス・イノベーションセンターにて開催されました．
+本研究室からは学生セッションにて，以下の発表を行いました．
+高橋美樹，高橋瑞穂，島田裕，谷口行信，早瀬和也 ”FAST特徴を用いた空撮画像からの人工物領域抽出，&amp;ldquo;映像情報メディア学会冬季大会講演予稿集, 23C-1, 2018.</description></item><item><title>2018年度夏合宿を行いました</title><link>https://tusvml.github.io/blog/posts/20181016-01/</link><pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20181016-01/</guid><description>
+本年度の谷口研究室・夏合宿は，9月6日(木)から7日(金)にかけて伊豆で開催しました．
+合宿では、学部4年生が研究内容をポスター形式で発表し，お互いに活発な議論を行いました。</description></item><item><title>FIT2018 で FIT 奨励賞を受賞しました</title><link>https://tusvml.github.io/blog/posts/20181016-02/</link><pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20181016-02/</guid><description>
+修士のメンバーのうち2名が発表を行い，修士1年の鈴木智裕君がFIT奨励賞を受賞しました．
+本年度の情報科学技術フォーラム(FIT2018)は，9月19日(水)から21日(金)にかけて，福岡工業大学にて開催されました．
+本研究室からは一般講演にて，以下の2件の発表を行いました．
+宮尾恵(東京理科大学)，島田裕(埼玉大学)，谷口行信(東京理科大学)，&amp;ldquo;近赤外線を含むカラー画像のスーパーピクセル分割を用いた色調補正手法の提案&amp;rdquo;，第17回情報科学技術フォーラム(FIT2018)，I-001，2018． 鈴木智裕(東京理科大学)，島田裕(埼玉大学)，谷口行信(東京理科大学)，&amp;ldquo;骨格情報と人物追跡を用いたバス乗降客数カウント&amp;rdquo;，第17回情報科学技術フォーラム(FIT2018)，I-015，2018．</description></item><item><title>電子情報通信学会 総合大会 2018で発表しました</title><link>https://tusvml.github.io/blog/posts/20180425-01/</link><pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20180425-01/</guid><description>
+学部4年のメンバーのうち1人が一般セッションで，1人がポスターセッションで発表を行いました。
+本年度の電子情報通信学会 総合大会は，3月20日(火)から23日(金)にかけて東京電機大学東京千住キャンパスにて開催されました．
+本研究室からは一般セッションにて，
+田代大地(東京理科大)，島田裕(埼玉大)，谷口行信(東京理科大)，高木基宏，早瀬和也，三反崎暁経，清水淳(NTT)，&amp;ldquo;植生・道路領域除去による空撮画像間の変化検出の精度向上&amp;rdquo;，電子情報通信学会 総合大会，D-11-37,2018. の発表を行い，学生ポスターセッションにて，
+鈴木智裕(東京理科大)，島田裕(埼玉大)，谷口行信(東京理科大)，&amp;ldquo;骨格検出を用いたバスの乗車人数推定&amp;rdquo;，電子情報通信学会 総合大会，学生ポスターセッション，ISS-P-020,2018. の発表を行いました．</description></item><item><title>IWAIT 2018 で Best Paper Award を受賞しました</title><link>https://tusvml.github.io/blog/posts/20180208-01/</link><pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20180208-01/</guid><description>
+修士2年の学生が発表を行い，Best Paper Award を受賞しました．
+本年度の International Workshop on Advanced Image Technology 2018 (IWAIT 2018) は1月7日(日)から1月9日(火)にかけて，タイ・チェンマイにて開催されました．
+本研究室からは，オーラルセッションで以下の発表を行いました．
+Taiki Sato, Yutaka Shimada, Yukinobu Taniguchi, &amp;ldquo;Temporal Video Alignment Based on Integrating Multiple Features by Adaptive Weighting,&amp;rdquo; International Workshop on Advanced Image Technology, 2018.</description></item><item><title>映像情報メディア学会 年次大会 2017で発表しました</title><link>https://tusvml.github.io/blog/posts/20170914-01/</link><pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20170914-01/</guid><description>
+修士の3名が発表を行いました．
+本年度の映像情報メディア学会 年次大会は，8月30日(水)から9月1日(金)にかけて，本学，東京理科大学 葛飾キャンパスで開催されました．
+本研究室からは，以下の3件の発表を行いました．
+高木基希，島田裕，谷口行信（東京理科大），&amp;ldquo;偏相関係数を用いた教師なし人物同定手法の検討&amp;rdquo;，映像情報メディア学会 年次大会，11B-2，2017． 宮尾恵，島田裕，谷口行信（東京理科大），&amp;ldquo;着衣領域の認識に基づく近赤外線を含むカラー画像の色調補正&amp;rdquo;，映像情報メディア学会 年次大会，13B-5，2017． 柳瀬直人（東京理科大），村崎和彦（東京理科大学/NTT），島田裕，谷口行信（東京理科大），&amp;ldquo;単一画像からの深度推定と幾何学的制約を利用した寸法推定&amp;rdquo;，映像情報メディア学会 年次大会，33B-2，2017．</description></item><item><title>第20回画像の認識・理解シンポジウム (MIRU2017) で発表しました</title><link>https://tusvml.github.io/blog/posts/20170906-01/</link><pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20170906-01/</guid><description>
+修士2年のメンバーのうち2名がポスターセッションで発表を行いました．
+本年度の画像の認識・理解シンポジウム (MIRU 2017) は，8月7日(月)から10日(木) にかけて広島国際会議場にて開催されました．
+本研究室からはポスターセッションにて，以下の2件の発表を行いました．
+沖谷卓哉，島田裕，谷口行信，&amp;ldquo;R-MAC特徴ベクトルの加重平均による屋内現在地推定の精度向上&amp;rdquo;，第20回画像の認識・理解シンポジウム(MIRU 2017)，PS1-40，2017．</description></item><item><title>2017年度オープンキャンパス</title><link>https://tusvml.github.io/blog/posts/20170831-01/</link><pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20170831-01/</guid><description>
+8月11日に開催されたオープンキャンパスで谷口研究室ではオープンラボ行いました。
+ディスプレイへの注目度の推定、服装からの人物特定、芸能人顔推定の3つをデモ展示し、来場された方々に体験していただきました。
+今回来場して下さった200人弱の方々の大学選びに少しでも参考になれば幸いです。</description></item><item><title>2017年度谷口研究室が発足しました</title><link>https://tusvml.github.io/blog/posts/20170403-01/</link><pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20170403-01/</guid><description>
+新年度となり2017年度の谷口研究室では、第3期生となる学部生15名を新たに迎えました。
+学生数は合計22名となり、これまでにない大人数での研究活動が行われていきます。</description></item><item><title>電子情報通信学会総合大会で発表しました</title><link>https://tusvml.github.io/blog/posts/20160317-01/</link><pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20160317-01/</guid><description>
+学部4年のメンバーのうち3人が一般セッションで、2人が学生ポスターセッションで発表を行いました。
+本年度の電子情報通信学会 総合大会は3月14日から17日にかけて九州大学伊都キャンパスにて開催されました。
+本研究室からは一般セッションにて、
+佐藤大己，島田裕，谷口行信，米本悠，村崎和彦，数藤恭子，&amp;ldquo;物体特徴マッチングによる複数作業映像の時間的対応付け&amp;rdquo;，2016年電子情報通信学会総合大会，D-9-26, 2016. 高木基希，島田裕，谷口行信，&amp;ldquo;マルチショット連結画像を入力とする畳み込みニューラルネットを用いた人物同定&amp;rdquo;，2016年電子情報通信学会総合大会，D-12-19, 2016. 沖谷卓哉，島田裕，谷口行信，&amp;ldquo;画像認識に基づく歩行者の移動軌跡推定,&amp;rdquo; 2016年電子情報通信学会総合大会，D-12-77, 2016. の発表を行い、学生ポスターセッションにて、
+坂本望，谷口行信，島田裕，&amp;ldquo;射影歪みを考慮した改良Bag of Visual Wordsによる屋内位置推定&amp;rdquo;, 2016年電子情報通信学会総合大会，学生ポスターセッション，ISS-SP-204, 2016. 柳瀬直人，谷口行信，島田　裕,&amp;ldquo;CNNを用いたテロップの外接矩形検出, 2016年電子情報通信学会総合大会，学生ポスターセッション，ISS-SP-206, 2016. の発表を行いました。</description></item><item><title>オープンラボを開催します</title><link>https://tusvml.github.io/blog/posts/20150801-01/</link><pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20150801-01/</guid><description>
+葛飾・神楽坂でのオープンキャンパス時に本研究室で行う研究の一部を体験できるイベントを開催します。
+オープンラボにて体験可能予定となっているのは、
+大学の敷地内を撮った写真からどこで撮った写真かを当てるプログラム 顔がどの芸能人にどの程度似ているかを算出するプログラム の2点となっています。当日は研究室に所属する学生が対応しますので、研究に関して以外にも受験に関することなどなんでもお答えしますので ぜひお越しください！</description></item><item><title>研究室が発足しました</title><link>https://tusvml.github.io/blog/posts/20150402-01/</link><pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20150402-01/</guid><description>
+本年度より新研究室として東京理科大学工学部経営工学科に発足しました。
+第一期生となる2015年度は学部生15名を迎えてスタートしました。</description></item></channel></rss>
