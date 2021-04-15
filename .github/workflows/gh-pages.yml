@@ -1,0 +1,33 @@
+name: gh-pages
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # build every 6 hours
+    - cron: "0 */6 * * *"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          submodules: true
+      - uses: actions/setup-go@v2
+        with:
+          go-version: 1.16
+      - run: |
+          go build -o bin/blogctl cmd/blogctl/main.go
+      - run: |
+          ./bin/blogctl fetch -p ${{ secrets.NOTION_PAGE_ID }} --post content/posts --static static
+      - uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 0.82.0
+      - run: hugo --minify
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
