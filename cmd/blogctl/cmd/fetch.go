@@ -3,6 +3,7 @@ package cmd
 import (
 	"fmt"
 
+	"github.com/cheggaaa/pb/v3"
 	"github.com/hashicorp/go-multierror"
 	"github.com/kjk/notionapi"
 	"github.com/km2/notion2hugo"
@@ -51,7 +52,12 @@ func convertArticles(c *notionapi.Client, pageID string) error {
 	frontMatterConverter := frontmatter.NewConverter(page.TableViews[0]).
 		Format(frontmatter.FormatTOML)
 
+	bar := pb.StartNew(len(page.TableViews[0].Rows))
+	defer bar.Finish()
+
 	for _, article := range page.TableViews[0].Rows {
+		bar.Increment()
+
 		p, err := c.DownloadPage(article.Page.ID)
 		if err != nil {
 			result = multierror.Append(result, fmt.Errorf("failed to download page: %w", err))
