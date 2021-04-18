@@ -110,12 +110,13 @@ github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvW
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/kjk/atomicfile v0.0.0-20190916063300-2d5c7d7d05bf/go.mod h1:+YlBbo63AHA3uS6tdRhd42B+I1lV7H7+aqDhwTRl5rs=
 github.com/kjk/caching_http_client v0.0.0-20190810075619-06ff809674f7/go.mod h1:uZMXWOA3unK8KYdy6aBIel64MMqZwsRFRKIvgSadLAU=
-github.com/kjk/notionapi v0.0.0-20210408231951-e31c3d030a7f h1:8x/vW/HKGHnKSzMaC6gOagw6qkDm7EWYbmH47gIb3BA=
 github.com/kjk/notionapi v0.0.0-20210408231951-e31c3d030a7f/go.mod h1:TN6VHOLMXTSoGSaXDKTqvw5Aos628adXJAXSKvjTTRI=
+github.com/kjk/notionapi v0.0.0-20210416062710-878a08dbe82d h1:4+AFba27kE3/3HuFn9WbMCGbGHBHS4PxGKs0a60ytaI=
+github.com/kjk/notionapi v0.0.0-20210416062710-878a08dbe82d/go.mod h1:TN6VHOLMXTSoGSaXDKTqvw5Aos628adXJAXSKvjTTRI=
 github.com/kjk/siser v0.0.0-20190801014033-b3367920d7f2/go.mod h1:5VyY+9nF1wpSfWAIM/mIrd0fZCiA/6IK6CSf3PnjfMA=
 github.com/kjk/u v0.0.0-20191229080709-d1ac8976d53f/go.mod h1:5DUexog+kFLzpHxAQ7R9Of0N8DdhUjbpWGgnc41TMK4=
-github.com/km2/notion2hugo v0.0.0-20210415134231-92a4027be04d h1:zrpozq3pBbnV1HcbWG8aurNSr5Gt5TLvYNGK3HZXc8w=
-github.com/km2/notion2hugo v0.0.0-20210415134231-92a4027be04d/go.mod h1:8e48ELubX7DvPtcSIq9vX0PvLTgVfCAnu7FYmW2bpJg=
+github.com/km2/notion2hugo v0.0.0-20210418021002-80d4578bebcd h1:eb9I6qmCNo/qrBRY8xTcKBZL4zOrejTE1X3jEW1fh+A=
+github.com/km2/notion2hugo v0.0.0-20210418021002-80d4578bebcd/go.mod h1:8e48ELubX7DvPtcSIq9vX0PvLTgVfCAnu7FYmW2bpJg=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515/go.mod h1:+0opPa2QZZtGFBFZlji/RkVcI2GknAs/DXo4wKdlNEc=
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
