@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>谷口研究室</title><link>https://tusvml.github.io/blog/</link><description>Recent content on 谷口研究室</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tusvml.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>画像電子学会 第295回研究会で発表しました</title><link>https://tusvml.github.io/blog/posts/20210414-01/</link><pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20210414-01/</guid><description>
-2021/23-24に「画像電子学会　第295回研究会」で発表しました．
-今年はOnLineの開催でした．
-本研究室からは以下の発表をおこないました．
-伊井 理紗子(東京理科大学)，古田 諒佑(東京大学)，谷口 行信(東京理科大学)，&amp;ldquo;重複領域を持つ複数カメラ画像の歪み補正とパノラマ合成&amp;rdquo;，画像電子学会 第295回研究会，2020． 脇田 和希(東京理科大学)，古田 諒佑(東京大学)，谷口 行信(東京理科大学)，&amp;ldquo;乳牛個体識別のためのRGB-Dデータのシームレスな合成&amp;rdquo;，画像電子学会 第295回研究会，2020． 伊倉 遼(東京理科大学)，古田 諒佑(東京大学)，入江 豪(NTTコミュニケーション科学基礎研究所)，谷口 行信(東京理科大学)，&amp;ldquo;床画像と屋内構造地図を用いた位置推定技術の研究&amp;rdquo;，画像電子学会 第295回研究会，2020． 李 欣耘(東京理科大学)，古田 諒佑(東京大学)，入江 豪(NTTコミュニケーション科学基礎研究所)，谷口 行信(東京理科大学)，&amp;ldquo;多視点画像及びGeM Poolingを用いた屋内位置推定の高精度化&amp;rdquo;，画像電子学会 第295回研究会，2020．</description></item><item><title>2021年電子情報通信学会 総合大会で発表しました</title><link>https://tusvml.github.io/blog/posts/20210316-01/</link><pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20210316-01/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>谷口研究室</title><link>https://tusvml.github.io/blog/</link><description>Recent content on 谷口研究室</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tusvml.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>2021年電子情報通信学会 総合大会で発表しました</title><link>https://tusvml.github.io/blog/posts/20210316-01/</link><pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20210316-01/</guid><description>
 2021/03/09 に「2021年電子情報通信学会 総合大会 ISS特別企画「ジュニア＆学生ポスターセッション」」で発表をしました。
 今年はオンラインでの開催でした。
 「深層学習に基づく漫画の半自動彩色へ向けた検討」
@@ -71,11 +67,7 @@ Tomohiro Suzuki, Yutaka Shimada, Yukinobu Taniguchi, &amp;ldquo;Human Pose Estim
 本研究室からは学生セッションにて，以下の発表を行いました．
 高橋美樹，高橋瑞穂，島田裕，谷口行信，早瀬和也 ”FAST特徴を用いた空撮画像からの人工物領域抽出，&amp;ldquo;映像情報メディア学会冬季大会講演予稿集, 23C-1, 2018.</description></item><item><title>2018年度夏合宿を行いました</title><link>https://tusvml.github.io/blog/posts/20181016-01/</link><pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20181016-01/</guid><description>
 本年度の谷口研究室・夏合宿は，9月6日(木)から7日(金)にかけて伊豆で開催しました．
-合宿では、学部4年生が研究内容をポスター形式で発表し，お互いに活発な議論を行いました。</description></item><item><title>FIT2018 で FIT 奨励賞を受賞しました</title><link>https://tusvml.github.io/blog/posts/20181016-02/</link><pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20181016-02/</guid><description>
-修士のメンバーのうち2名が発表を行い，修士1年の鈴木智裕君がFIT奨励賞を受賞しました．
-本年度の情報科学技術フォーラム(FIT2018)は，9月19日(水)から21日(金)にかけて，福岡工業大学にて開催されました．
-本研究室からは一般講演にて，以下の2件の発表を行いました．
-宮尾恵(東京理科大学)，島田裕(埼玉大学)，谷口行信(東京理科大学)，&amp;ldquo;近赤外線を含むカラー画像のスーパーピクセル分割を用いた色調補正手法の提案&amp;rdquo;，第17回情報科学技術フォーラム(FIT2018)，I-001，2018． 鈴木智裕(東京理科大学)，島田裕(埼玉大学)，谷口行信(東京理科大学)，&amp;ldquo;骨格情報と人物追跡を用いたバス乗降客数カウント&amp;rdquo;，第17回情報科学技術フォーラム(FIT2018)，I-015，2018．</description></item><item><title>電子情報通信学会 総合大会 2018で発表しました</title><link>https://tusvml.github.io/blog/posts/20180425-01/</link><pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20180425-01/</guid><description>
+合宿では、学部4年生が研究内容をポスター形式で発表し，お互いに活発な議論を行いました。</description></item><item><title>電子情報通信学会 総合大会 2018で発表しました</title><link>https://tusvml.github.io/blog/posts/20180425-01/</link><pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate><guid>https://tusvml.github.io/blog/posts/20180425-01/</guid><description>
 学部4年のメンバーのうち1人が一般セッションで，1人がポスターセッションで発表を行いました。
 本年度の電子情報通信学会 総合大会は，3月20日(火)から23日(金)にかけて東京電機大学東京千住キャンパスにて開催されました．
 本研究室からは一般セッションにて，
