@@ -1,0 +1,22 @@
+name: auto-commit
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # run every Sunday
+    - cron: "0 0 * * 0"
+
+jobs:
+  timestamp:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - run: |
+          echo "$(date)" > timestamp.txt
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "ci(auto-commit): add timestamp"
