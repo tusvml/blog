@@ -2,8 +2,10 @@ name: gh-pages
 
 on:
   push:
-    branches:
-      - main
+    # branches:
+    #   - main
+    branches-ignore:
+      - "**"
   repository_dispatch:
   schedule:
     # build every 6 hours
