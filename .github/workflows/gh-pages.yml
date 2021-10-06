@@ -7,9 +7,9 @@ on:
     branches-ignore:
       - "**"
   repository_dispatch:
-  schedule:
-    # build every 6 hours
-    - cron: "0 */6 * * *"
+  # schedule:
+  #   # build every 6 hours
+  #   - cron: "0 */6 * * *"
 
 jobs:
   deploy:
