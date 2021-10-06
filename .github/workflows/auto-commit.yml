@@ -19,4 +19,4 @@ jobs:
           echo "$(date)" > timestamp.txt
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "ci(auto-commit): add timestamp"
+          commit_message: "chore(auto-commit): add timestamp [skip ci]"
