@@ -1,9 +1,6 @@
 name: auto-commit
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     # run every Sunday
     - cron: "0 0 * * 0"
